@@ -31,6 +31,7 @@ h2 {
         font-size: 18px;
         color: rgb(58, 4, 33);
         border-radius: 25px;
+        max-width: 1000px;
 }
 .links {
     border-color: pink;
